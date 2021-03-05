@@ -19,6 +19,7 @@
   limitations under the License.
 */
 
+@import UIKit;
 
 @class NEOColorPickerBaseViewController;
 
